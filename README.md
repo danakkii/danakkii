@@ -1,5 +1,5 @@
 # Contact
-danakkii22@gmail.com
+<img src="https://img.shields.io/badge/#EA4335?style=flat&logo=Gmail&logoColor=white"/>
 
 <!--
 **danakkii/danakkii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
