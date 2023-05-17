@@ -1,6 +1,6 @@
 # Contact
 
-<img src="https://img.shields.io/badge/danakkii22@gmail.com-#EA4335?style=flat&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/danakkii22@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
 <!--
 **danakkii/danakkii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
