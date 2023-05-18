@@ -1,6 +1,5 @@
 # Contact
-안녕하세요!  
-새싹 개발자 김다나입니다.  
+새싹 AI 개발자 김다나입니다😀  
 <a href="mailto:danakkii22@gmail.com"><img src="https://img.shields.io/badge/danakkii22@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danakkii22@gmail.com"/></a>
 
 
