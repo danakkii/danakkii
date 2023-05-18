@@ -2,8 +2,8 @@
 새싹 AI 개발자 김다나입니다😀  
   
 <a href="mailto:danakkii22@gmail.com"><img src="https://img.shields.io/badge/danakkii22@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danakkii22@gmail.com"/></a>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=danaaa18)](https://solved.ac/danaaa18)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=danaaa18)](https://solved.ac/danaaa18)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danakkii&layout=dark&theme=dark)
 
 
