@@ -5,7 +5,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=danaaa18)](https://solved.ac/danaaa18)
 
 ### Skill
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
 
 # Project
 |project name|team|period|link|
