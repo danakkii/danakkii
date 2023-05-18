@@ -8,9 +8,7 @@
 ### Skill  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
 <br/><br/><br/>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=
-rkarbfajrwk1@gmail.com)](https://velog.io/@ganadara)  
-  
+
   
   
 # Project
