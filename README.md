@@ -6,7 +6,7 @@
 # Project
 |project name|team|period|
 |------|---|---|
-|리뷰분석을 통한 개인 맞춤형 숙소 추천 서비스 개발|(https://img.shields.io/badge/team-FF0000?style=flat-square&logo=team&logoColor=red)|2023. 03. 04 ~ 2023. 04. 07|
+|리뷰분석을 통한 개인 맞춤형 숙소 추천 서비스 개발|(https://img.shields.io/badge/team-FF0000?style=flat-square)|2023. 03. 04 ~ 2023. 04. 07|
 |기업 공시 데이터 챗봇 서비스 개발|테스트2|2023. 02. 16 ~ 2023. 03. 03|
 |손글씨인식 AI 모델 개발|테스트2|2022. 12. 16 ~ 2022. 12. 26|
 |따릉이 대여량 수요예측|테스트2|2022. 12. 02. ~ 2022. 12. 07 |
