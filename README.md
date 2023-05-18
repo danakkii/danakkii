@@ -1,6 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danakkii&show_icons=true&theme=dark)
-
-
 # Contact
 새싹 AI 개발자 김다나입니다😀  <a href="https://github.com/anuraghazra/convoychat">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=danakkii&show_icons=true&theme=dark" />
