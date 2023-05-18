@@ -4,8 +4,7 @@
 <a href="mailto:danakkii22@gmail.com"><img src="https://img.shields.io/badge/danakkii22@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danakkii22@gmail.com"/></a>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=danaaa18)](https://solved.ac/danaaa18)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danakkii&layout=dark&theme=dark)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danakkii&show_icons=true&theme=dark)
 
 # Project
 |project name|team|period|link|
