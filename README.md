@@ -9,7 +9,7 @@
 
 # Project
 |project name|team|period|link|
-|------|---|---|
+|------|---|---|---|
 |리뷰분석을 통한 개인 맞춤형 숙소 추천 서비스 개발|[![team](https://img.shields.io/badge/team-red?style=flat&logo=Java&logoColor=white)](https://img.shields.io/badge/-team-red)|2023. 03. 04 ~ 2023. 04. 07|[Link](https://github.com/danakkii/project/tree/main/%EB%A6%AC%EB%B7%B0%EB%B6%84%EC%84%9D%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EA%B0%9C%EC%9D%B8%20%EB%A7%9E%EC%B6%A4%ED%98%95%20%EC%88%99%EC%86%8C%20%EC%B6%94%EC%B2%9C%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B0%9C%EB%B0%9C)|
 |기업 공시 데이터 챗봇 서비스 개발|[![team](https://img.shields.io/badge/team-red?style=flat&logo=Java&logoColor=white)](https://img.shields.io/badge/-team-red)|2023. 02. 16 ~ 2023. 03. 03|[Link](https://github.com/danakkii/project/tree/main/%EA%B8%B0%EC%97%85%20%EA%B3%B5%EC%8B%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%B1%97%EB%B4%87%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B0%9C%EB%B0%9C)|
 |손글씨인식 AI 모델 개발|[![team](https://img.shields.io/badge/team-red?style=flat&logo=Java&logoColor=white)](https://img.shields.io/badge/-team-red)|2022. 12. 16 ~ 2022. 12. 26|[Link](https://github.com/danakkii/project/tree/main/%EA%B8%B0%EC%97%85%20%EA%B3%B5%EC%8B%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%B1%97%EB%B4%87%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B0%9C%EB%B0%9C)|
