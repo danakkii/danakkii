@@ -1,10 +1,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danakkii&show_icons=true&theme=dark)
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=danakkii&show_icons=true&theme=dark" />
-</a>
+
 
 # Contact
-새싹 AI 개발자 김다나입니다😀  
+새싹 AI 개발자 김다나입니다😀  <a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=danakkii&show_icons=true&theme=dark" />
+</a>
   
 <a href="mailto:danakkii22@gmail.com"><img src="https://img.shields.io/badge/danakkii22@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danakkii22@gmail.com"/></a>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=danaaa18)](https://solved.ac/danaaa18)
