@@ -8,7 +8,7 @@
 
 <div style="text-align: right"> 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danakkii&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danakkii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danakkii&layout=compact)](https://github.com/anuraghazra/github-readme-stats) </div>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
 
