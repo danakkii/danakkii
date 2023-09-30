@@ -1,7 +1,5 @@
 # Contact
-새싹 AI 개발자 김다나입니다😀  <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=danakkii&show_icons=true&theme=dark" />
-</a>
+새싹 AI 개발자 김다나입니다😀
 
 <a href="mailto:danakkii22@gmail.com"><img src="https://img.shields.io/badge/danakkii22@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:danakkii22@gmail.com"/></a> <a href="https://danakkii.github.io/"><img src="https://img.shields.io/badge/Blog-181717?style=flat&logo=github&logoColor=white&link=https://danakkii.github.io/"/></a>   
   
