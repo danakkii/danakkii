@@ -7,7 +7,7 @@
 ### Skill  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
 <br/><br/><br/><br/>
-
+ 
   
 # Project
 |project name|team|period|link|
