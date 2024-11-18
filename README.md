@@ -8,7 +8,14 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
 <br/><br/><br/><br/> 
  
-  
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/danakkii"
+  width="600"
+  height="300"
+/>
+</a>
+
 # Project
 |project name|team|period|link|
 |------|---|---|---|
