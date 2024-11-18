@@ -1,29 +1,19 @@
-<div style="display: flex; align-items: center;">
-  <!-- 왼쪽 섹션 -->
-  <div style="flex: 1;">
-    # Contact    
-    새싹 AI 개발자 김다나입니다😀        
+# Contact    
+새싹 AI 개발자 김다나입니다😀        
 
-    <a href="mailto:danakkii22@gmail.com"><img src="https://img.shields.io/badge/danakkii22@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:danakkii22@gmail.com"/></a> 
-    <a href="https://danakkii.github.io/"><img src="https://img.shields.io/badge/Blog-181717?style=flat&logo=github&logoColor=white&link=https://danakkii.github.io/"/></a>   
+<a href="mailto:danakkii22@gmail.com"><img src="https://img.shields.io/badge/danakkii22@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:danakkii22@gmail.com"/></a> <a href="https://danakkii.github.io/"><img src="https://img.shields.io/badge/Blog-181717?style=flat&logo=github&logoColor=white&link=https://danakkii.github.io/"/></a>   
     
-    ### Skill   
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">  
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>  
-    <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
-  </div>
+### Skill   
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
 
-  <!-- 오른쪽 섹션 -->
-  <div style="flex: 1; text-align: center;">
-    <a href="https://github.com/devxb/gitanimals">
-      <img
-        src="https://render.gitanimals.org/farms/danakkii"
-        width="600"
-        height="300"
-      />
-    </a>
-  </div>
-</div>
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/danakkii"
+  width="600"
+  height="300"
+/>
+</a>
+
 
 # Project
 |project name|team|period|link|
