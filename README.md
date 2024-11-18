@@ -3,6 +3,12 @@
 
 <a href="mailto:danakkii22@gmail.com"><img src="https://img.shields.io/badge/danakkii22@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:danakkii22@gmail.com"/></a> <a href="https://danakkii.github.io/"><img src="https://img.shields.io/badge/Blog-181717?style=flat&logo=github&logoColor=white&link=https://danakkii.github.io/"/></a>  
 
+  
+    
+### Skill   
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
+
+
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/danakkii"
@@ -10,12 +16,6 @@
     height="120"
   />
 </a>
-  
-    
-### Skill   
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
-
-
 
 
 # Project
